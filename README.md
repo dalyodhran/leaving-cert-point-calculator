@@ -1,7 +1,7 @@
 # Leaving Cert Point Calulator
 
-Leaving Cert Point Calulator app was built as a project during my 2nd year summer holiday to have a better understanding of java.
-Leaving Cert Point Calulator app is a simple all that calculates points based on the Irish leaving cert exams. The application is build to run on Android devices.
+Leaving Cert Point Calulator app was built as a project during my 2nd year of college to have a better understanding of java.
+Leaving Cert Point Calulator app is a simple app that calculates points based on the Irish leaving cert exams. The application is build to run on Android devices.
 
 ### Topics learned
 
